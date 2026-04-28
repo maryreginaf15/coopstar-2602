@@ -6,10 +6,15 @@ Durante esse processo, trabalhei com tecnologias como HTML, CSS e JavaScript, ap
 
 
 🔧 Principais avanços com a refatoração:
+<br>
 • De código pouco organizado → para uma estrutura mais limpa e modular
+<br>
 • De soluções mais “improvisadas” → para aplicação de boas práticas
+<br>
 • De dificuldade de manutenção → para um código mais escalável e reutilizável
+<br>
 • De lógica confusa → para funções mais claras e bem definidas
+<br>
 • De versão desatualizada → para padrões mais modernos de desenvolvimento  
 
 💡 Esse trabalho foi uma ótima oportunidade para consolidar conhecimentos em desenvolvimento web e entender, na prática, a importância de escrever um código limpo e escalável.
